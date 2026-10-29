@@ -30,5 +30,5 @@ Excel · UNIQUE, FILTER, SORT · Pivot tables · Data cleaning
 
 ## Author
 
-**Danilo Manzo**, junior Data Analyst (Excel, SQL, Python)
+**Danilo Manzo**, junior Data Analyst (Excel, SQL, Python)<br>
 [Portfolio](https://danilomanzo.eu) · [LinkedIn](https://www.linkedin.com/in/danilomanzo) · [Email](mailto:manzodanilo1@gmail.com)
