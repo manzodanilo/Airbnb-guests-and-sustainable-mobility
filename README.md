@@ -25,7 +25,8 @@ Excel · UNIQUE, FILTER, SORT · Pivot tables · Data cleaning
 ```
 .
 ├── README.md
-└── airbnb-guests-and-sustainable-mobility.xlsx    # cleaned data, calculated fields and answers```
+└── airbnb-guests-and-sustainable-mobility.xlsx    # cleaned data, calculated fields and answers
+```
 
 ## Author
 
